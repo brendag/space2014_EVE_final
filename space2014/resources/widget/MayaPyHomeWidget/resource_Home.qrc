@@ -1,0 +1,7 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/spaceStation.png</file>
+     <file>images/EVE.png</file>
+     <file>images/spaceShip.png</file>
+ </qresource>
+ </RCC>

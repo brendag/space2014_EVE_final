@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>608</width>
+    <height>422</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QWidget" name="controlsBox" native="true">
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>12</x>
+        <y>12</y>
+        <width>143</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Space Ship Animations</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="homeBtn">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>290</y>
+        <width>125</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Return Home</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="SpaceShipEnterButton">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>60</y>
+        <width>215</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Space Ship Enter Animation</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="SpaceShipAndAsteroid">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>170</y>
+        <width>263</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Space Ship and Asteroid Animation</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="Camera2a">
+      <property name="geometry">
+       <rect>
+        <x>120</x>
+        <y>90</y>
+        <width>114</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Camera 2</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="Camera1a">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>90</y>
+        <width>114</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Camera 1</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="Camera1b">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>200</y>
+        <width>114</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Camera 1</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="Camera2b">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>200</y>
+        <width>114</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Camera 2</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="Camera3b">
+      <property name="geometry">
+       <rect>
+        <x>70</x>
+        <y>230</y>
+        <width>114</width>
+        <height>32</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Camera 3</string>
+      </property>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
